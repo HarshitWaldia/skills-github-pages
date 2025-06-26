@@ -1,8 +1,8 @@
 # Harshit Waldia
-### AI & Machine Learning Engineer | B.Tech in CSE (Hons)
+### B.Tech in CSE with Machine Learning and AI
 
+---
 [harshitwaldia112@gmail.com](mailto:harshitwaldia112@gmail.com) • [LinkedIn](https://linkedin.com/in/harshit-waldia) • [GitHub](https://github.com/harshitwaldia)
-
 ---
 
 ## About Me
