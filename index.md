@@ -1,4 +1,4 @@
-# Harshit Waldia
+
 ### B.Tech in CSE with Machine Learning and AI
 
 ---
